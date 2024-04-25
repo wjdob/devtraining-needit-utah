@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Properties_custom</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>900</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>system_properties_ui.do?sysparm_title=Properties Custom&amp;sysparm_category=Custom Properties</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-17 21:50:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cf49c77647e90210d91d8f59e16d43ee</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Properties_custom</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_cf49c77647e90210d91d8f59e16d43ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-17 21:58:27</sys_updated_on>
+        <timeline_page/>
+        <title>Properties_custom</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ea8fd60fdbaaf9d0b1eb9027c596191e</instance_id>
+        <instance_name>dev219626</instance_name>
+        <name>sys_app_module_cf49c77647e90210d91d8f59e16d43ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Properties_custom</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>900</order><override_menu_roles>false</override_menu_roles><query>system_properties_ui.do?sysparm_title=Properties Custom&amp;sysparm_category=Custom Properties</query><report/><require_confirmation>true</require_confirmation><roles>user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-17 21:50:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cf49c77647e90210d91d8f59e16d43ee</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Properties_custom</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_cf49c77647e90210d91d8f59e16d43ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-17 21:58:27</sys_updated_on><timeline_page/><title>Properties_custom</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1508027297</payload_hash>
+        <record_name>Properties_custom</record_name>
+        <reverted_from/>
+        <source>8f70bab247690210d91d8f59e16d4304</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-17 21:58:27</sys_created_on>
+        <sys_id>d17c8f3a47e90210d91d8f59e16d4359</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18eee117d260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-17 21:58:27</sys_updated_on>
+        <type>Module</type>
+        <update_guid>997c8f3ab2e9021020ea6995ccbaec58</update_guid>
+        <update_guid_history>997c8f3ab2e9021020ea6995ccbaec58:-1508027297,0f9bc73a12e9021005948ff31e0b747d:-1564085140,458b833a8ee902102312de3843be7bca:-770154755,9dbac3f693e9021079e6b8a7cdc8919f:-1564085140,ce8a4b7678e90210d2fffd5f3efb7d0e:-770154755</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Properties_custom">46645c6547b10210d91d8f59e16d4375</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-25 21:37:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>7e1a541ca44549a289be72f92bb68104</sys_id>
+        <sys_metadata>cf49c77647e90210d91d8f59e16d43ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Properties_custom</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_cf49c77647e90210d91d8f59e16d43ee</sys_update_name>
+        <sys_update_version display_value="sys_app_module_cf49c77647e90210d91d8f59e16d43ee">d17c8f3a47e90210d91d8f59e16d4359</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-25 21:37:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
